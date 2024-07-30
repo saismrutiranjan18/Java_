@@ -1,0 +1,41 @@
+ Types of Operators
+  
+  1. Arithmetic Operators (Binary / Unary);
+  2. Relational Operators
+  3. Logical Operators
+  4. Bitwise Operators
+  5. Assignment Operators
+  
+  1. Arithmetic Operators 
+  
+  Binary => +, -, *, /, %
+  Unary => ++, --
+  
+  Increment : 
+  
+  Pre-Increment => ++a , --a
+  Post-Increment => a++ , a--
+
+  2. Relational Operators
+
+    ==   equal
+    !=  not equal to (inequality)
+    >   greater than
+    <   less than
+    >=  greater than equal to 
+    <=  less than equal to
+
+  3. Logical Operators 
+
+  && - Logical AND (s1) && (s2)
+  || - Logical OR  (s1) || (s2)
+  !  - Logical NOT !(s1)
+
+  Logical AND 
+  Answer    (Statement 1)   (Statement 2)
+  True      True            True
+  False
+  False
+  False
+
+
