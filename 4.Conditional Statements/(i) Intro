@@ -1,0 +1,46 @@
+Basic Description about the Codniton
+
+1.if-else
+2.else if
+3.ternary operator
+4.switch
+
+1. if-else statements
+
+if(condtion){
+    //something else
+}else{
+    //something else
+}
+
+2. else if statements
+
+if(condtion 1){
+    //something else
+}else if (condition 2){
+    //something else
+}else{
+    
+}
+
+
+3. ternary operator 
+
+variable = conditon ? statement 1 : statement 2 ;
+
+4. Switch statement
+
+Switch (variable) {
+    case 1 : 
+            break;
+    case 2 : 
+            break;
+    case 3 : 
+            break;
+    case 4 : 
+            break:
+
+    default : 
+}
+
+
