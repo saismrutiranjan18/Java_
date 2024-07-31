@@ -33,9 +33,31 @@
 
   Logical AND 
   Answer    (Statement 1)   (Statement 2)
-  True      True            True
-  False
-  False
-  False
+  True       True            True
+  False      True            False
+  False      False           True
+  False      False           False
+
+    Logical OR 
+  Answer    (Statement 1)   (Statement 2)
+  True       True            True
+  True      True             False
+  True      False            True
+  False      False           False
+
+     Logical NOT 
+  Answer    (Statement 1)   
+  True       False
+  False      True
+
+  4. Assignment Operators
+
+  =
+  +=
+  -=
+  *=
+  /=           
+
+
 
 
