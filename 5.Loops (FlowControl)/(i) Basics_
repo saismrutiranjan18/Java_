@@ -1,0 +1,34 @@
+Loops Basics
+
+1. While Loop
+2. For Loop
+3. do while Loop
+4. Break Statement
+
+1. While Loop 
+
+while(condition){
+    // do something
+}
+
+2. For Loop
+
+for (initialisation; conditon; updation) {
+    //do something
+}
+
+3. do-while Loop
+
+do{
+    //do something
+}while(condition);
+
+
+4. Break Statement 
+to exit the Loop
+
+5. Continue Statement
+to skip an iteration 
+
+
+
