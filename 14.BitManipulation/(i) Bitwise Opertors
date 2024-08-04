@@ -1,0 +1,14 @@
+*  Bitwise Opertors :- 
+
+        Binary AND
+        Binary OR
+        Binary XOR
+        Binary One's Complement
+        Binary Left Shift
+        Binary Right Shift
+
+*   Operations on Bit
+
+        1. Get ith Bit
+        2. Set ith Bit 
+        3. Clear ith Bit
