@@ -31,4 +31,19 @@ class Student {
         this.roll = s1.roll;
         this.marks = s1.marks;
     }
+
+    Student(){
+        marks = new int[3];
+        System.out.println("constructor is called");
+    }
+
+    Student(String name){
+        marks = new int[3];
+        this.name = name;
+    }
+
+    Student(int roll){
+        marks = new int[3];
+        this.roll = roll;
+    }
 }
