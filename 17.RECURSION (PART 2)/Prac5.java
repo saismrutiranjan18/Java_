@@ -45,7 +45,7 @@ public class Prac5 {
         towerOfHanoi(n-1, helper, src, dest);
         }
         public static void main(String args[]) {
-        int n = 4;
+        int n = 5;
         towerOfHanoi(n, "A", "B", "C");
     }
 }
