@@ -93,6 +93,7 @@ public class BuildTree {
         public static void main(String[] args) {
             int nodes[] = {1, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1};
             int[] idx = {0}; // Wrapping idx inside an array to pass by reference
+            System.out.println();
             Node root = BinaryTree.buildTree(nodes, idx); // Static method call
             BinaryTree.levelOrder(root);
         }
