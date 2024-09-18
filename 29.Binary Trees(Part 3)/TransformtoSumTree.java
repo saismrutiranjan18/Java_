@@ -41,17 +41,17 @@ public class TransformtoSumTree {
     public static void main(String[] args) {
         /*      1
          
-/ \
-2    3
-/ \   / \
-4  5  6   7
-Expected Tree
-27
-/ \
-9    13
-/ \   / \
-0  0  0   0
-*/
+                / \
+                2    3
+                / \   / \
+                4  5  6   7
+                Expected Tree
+                    27
+                    / \
+                 9    13
+                / \   / \
+                0  0  0   0
+            */
 
          Node root = new Node(1);
          root.left = new Node(2);
