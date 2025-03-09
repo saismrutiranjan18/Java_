@@ -19,6 +19,9 @@ public class InsertinHeap{
                 arr.set(par, temp);
             }
         }
+        public int peek(){ //O(1)
+            return arr.get(0);
+        }
     }
 
     public static void main(String[] args) {
