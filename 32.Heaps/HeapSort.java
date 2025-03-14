@@ -20,7 +20,7 @@ public class HeapSort {
             arr[i] = arr[largest];
             arr[largest] = temp;
 
-            heapify(arr, n, largest); // Corrected parameter order
+            heapify(arr, n, largest); 
         }
     }
 
@@ -28,8 +28,8 @@ public class HeapSort {
         int n = arr.length;
 
         // Step 1 - Build max heap
-        for (int i = n / 2 - 1; i >= 0; i--) { // Corrected loop range
-            heapify(arr, n, i); // Corrected function call
+        for (int i = n / 2 - 1; i >= 0; i--) {
+            heapify(arr, n, i); 
         }
 
         // Step 2 - Extract elements from heap
